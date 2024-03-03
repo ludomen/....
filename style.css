@@ -1,0 +1,17 @@
+.box{
+    margin: auto;
+    border:none;
+    width: 500px;
+    height: 500px;
+    border-bottom: 10px solid lightgray;
+     background-image: url(1617284052_38-p-istoriya-fon-dlya-prezentatsii-38.jpg);
+}
+h1{
+    font-weight: 400;
+    text-align: center;
+    padding-top: 35%;
+}
+h2{
+    text-align: center;
+    font-weight: 400;
+}
